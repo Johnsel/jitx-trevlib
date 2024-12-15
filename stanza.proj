@@ -13,4 +13,4 @@ build main:
   pkg: ".slm/pkgs"
   o: "trevlib"
 
-package components/fiducial defined-in "components\\fiducial.stanza"
+package components/fiducial defined-in "components/fiducial.stanza"
